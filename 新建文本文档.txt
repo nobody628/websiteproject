@@ -1,0 +1,44 @@
+------------
+		<div class="two-row row row_8 row_3col">
+			<div class="column column_1_4  column_1">
+				<div class="blurb module bg_layout_light text_align_center  blurb_0 blurb_position_top">
+					<div class="blurb_content">
+						<div class="main_blurb_image"><span class="icon waypoint animation_off animated" style="color: #232b2d;"></span>1</div>
+						<div class="blurb_container">
+							<h4 class="module_header">边做边学</h4>
+							<div class="blurb_description">
+								 你将通过实战项目快速应用所学的技能，构建新媒体作品集。 
+							</div><!-- .blurb_description -->
+						</div>
+					</div> <!-- .blurb_content -->
+				</div> <!-- .blurb -->
+			</div> <!-- .column -->
+			<div class="column column_1_4  column_2">
+				<div class="blurb module bg_layout_light text_align_center blurb_1 blurb_position_top">	
+					<div class="blurb_content">
+						<div class="main_blurb_image"><span class="icon waypoint animation_off animated" style="color: #232b2d;"></span>
+						</div>
+						<div class="blurb_container">
+							<h4 class="module_header">翻转课堂</h4>
+							<div class="blurb_description">
+							 你将通过精练简短的课程视频自主学习，通过课程辅导强化知识掌握。 
+							</div><!-- .blurb_description -->
+						</div>
+					</div> <!-- .blurb_content -->
+				</div> <!-- .blurb -->
+			</div> <!-- .column -->
+			<div class="column column_1_4  column_3">
+				<div class="blurb module bg_layout_light text_align_center  blurb_2 blurb_position_top">
+					<div class="blurb_content">
+						<div class="main_blurb_image"><span class="icon waypoint animation_off animated" style="color: #232b2d;">l</span>
+						</div>
+						<div class="blurb_container">
+							<h4 class="module_header">个性化辅导</h4>
+							<div class="et_pb_blurb_description">
+							 学员通过多维度的教学服务获取项目反馈，以解决学习过程中遇到的难题。
+							</div><!-- .blurb_description -->
+						</div>
+					</div> <!-- .blurb_content -->
+				</div> <!-- .blurb -->
+			</div> <!-- .column -->
+		</div>
